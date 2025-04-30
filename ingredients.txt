@@ -1,0 +1,10 @@
+Chicken Meat Kilograms
+Alfredo_Sauce Sauce Grams
+Veggie_Patty Vegan Grams
+Lettuce Vegetable Pieces
+Tomato Vegetable Pieces
+Onion Vegetable Pieces
+Bun Bakery Pieces
+Spaghetti Pasta Grams
+Ground_Beef Meat Kilograms
+Onion Vegetable Pieces
